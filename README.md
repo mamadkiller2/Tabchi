@@ -28,9 +28,6 @@ Use `./tabchi-ID.sh` to run your bot normaly or use `screen ./tabchi-ID.sh` for 
 Send `/start` to [@TabChiRobot](https://telegram.me/TabChiRobot) in telegram
 ## Developers
 
- * [BugFather (Amir_h)](https://telegram.me/BugFather)
- * [Base64 (Amin)](https://telegram.me/Base64)
- * [Jan123 (Javad)](https://telegram.me/XxX_Developer_XxX)
- * [Shayan123Hacker (Shayan)](https://telegram.me/Shayan123Hacker)
+ * [mamadkiller](https://telegram.me/mamadkiller)
 
-### Powered by [iTeam](https://telegram.me/iTeam_IR)
+
